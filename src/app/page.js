@@ -254,7 +254,7 @@ export default function Home() {
           </a>
         </div>
       </section>
-      <section class="chatbot container">
+      {/* <section class="chatbot container">
         <h2>
           <small>
             Personalized
@@ -285,7 +285,7 @@ export default function Home() {
               </form>
             </div>
           </div>
-        </section>
+        </section> */}
       </main>
     </>
   );
