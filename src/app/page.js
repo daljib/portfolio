@@ -240,13 +240,13 @@ export default function Home() {
           <a href="https://github.com/daljib/California-Women-s-Group-WebSite" class="flc women">
             <img src="./imgs/tempwomenlogo.png" alt="Churhview" width="100%" />
           </a>
-          <a href="https://github.com/daljib/Personal-Portfolio" class="bento-item">
+          <a href="https://github.com/daljib/portfolio" class="bento-item">
             <img src="./imgs/chatbot.png" alt="Harley" width="100%" />
           </a>
-          <a href="https://github.com/daljib/Data-Structures-and-Algorithims-" class="bento-item">
+          <a href="https://github.com/daljib-" class="bento-item">
             <img src="./imgs/2048_logo.svg.png" alt="Bunbury" width="100%" />
           </a>
-          <a href="https://github.com/daljib/Data-Structures-and-Algorithims-/tree/main" class="bento-item">
+          <a href="https://github.com/daljib" class="bento-item">
             <img src="./imgs/C4BA9343-16E0-4151-A804-F3DED86CB30C.JPEG" alt="Running" width="100%" />
           </a>
           <a href="https://www.accis-sac.org/test-photo-gallery" class="bento-item">
